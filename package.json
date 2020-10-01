@@ -1,0 +1,12 @@
+{
+  "name": "codespaces-playground",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/mizchi/codespace-playground.git",
+  "author": "mizchi <miz404@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "ts-node": "^9.0.0",
+    "typescript": "^4.0.3"
+  }
+}
